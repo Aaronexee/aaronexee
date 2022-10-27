@@ -21,11 +21,11 @@ body{
   height: fit-content;
   margin: auto;
 }
-#highlightrd {
+#highlights {
   text-align: center;
   list-style-type: none;
 }
-#highlightrd li {
+#highlights li {
   padding: 5px;
   font-size: 20px;
   font-family: sans-serif;
