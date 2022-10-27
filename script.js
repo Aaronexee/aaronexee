@@ -27,7 +27,7 @@ function displayCalendar() {
 
   let totalCalendarDay = 6 * 7;
 
-  let listOfDates = document.getElementById("highlightrd");
+  let listOfDates = document.getElementById("highlights");
   listOfDates.innerHTML = "";
 
   daysOfTheMonth.innerHTML = "";
